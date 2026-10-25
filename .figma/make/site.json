@@ -1,0 +1,11 @@
+{
+  "title": "Arigami — Every page, actually accessible",
+  "description": "Arigami is a Chrome extension that reshapes any website to make it calmer, easier to control, and ready for screen readers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
